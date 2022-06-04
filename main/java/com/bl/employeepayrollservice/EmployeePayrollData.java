@@ -1,3 +1,5 @@
+package com.bl.employeepayrollservice;
+
 public class EmployeePayrollData {
     public int id;
     public String name;
